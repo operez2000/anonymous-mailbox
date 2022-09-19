@@ -1,0 +1,44 @@
+[
+  {
+    "name": "buzon",
+    "path": "/buzon",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\buzon.vue",
+    "chunkName": "pages/buzon",
+    "_name": "_452d1787"
+  },
+  {
+    "name": "buzon_consulta",
+    "path": "/buzon_consulta",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\buzon_consulta.vue",
+    "chunkName": "pages/buzon_consulta",
+    "_name": "_089d53dd"
+  },
+  {
+    "name": "calendario",
+    "path": "/calendario",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\calendario.vue",
+    "chunkName": "pages/calendario",
+    "_name": "_470d15d3"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_51fdc90a"
+  },
+  {
+    "name": "microbiologia",
+    "path": "/microbiologia",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\microbiologia.vue",
+    "chunkName": "pages/microbiologia",
+    "_name": "_36d37e0e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\dev\\\\nuxt\\\\microbiologia\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_40d1789a"
+  }
+]
